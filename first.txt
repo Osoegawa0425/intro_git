@@ -2,3 +2,4 @@ Gitの練習をしていきます。
 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
 Git add
 Git commit
+ギットの基本的な操作を学びます。
